@@ -3,9 +3,8 @@
     "description": "A test library",
     "autoload": {
         "psr-0": {
-            "LXP": "src/"
+            "LXP\\": "src/"
         }
     },
     "license": "GPL-3.0"
 }
-    
