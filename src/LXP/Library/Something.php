@@ -6,7 +6,7 @@ namespace LXP\Library;
 
 class Something {
 
-    public __construct() {
+    public function __construct() {
         echo "Hello, namespace" . PHP_EOL;
     }
 }
