@@ -1,6 +1,6 @@
 <?php
 
-namespace LXP\Library;
+namespace Bmcgavin\Library;
 
 class Something {
 

@@ -1,10 +1,10 @@
 {
-    "name": "lxp/library",
+    "name": "bmcgavin/library",
     "description": "A test library",
     "type": "library",
     "autoload": {
         "psr-0": {
-            "LXP\\Library": "src/"
+            "Bmcgavin\\Library": "src/"
         }
     },
     "license": "GPL-3.0",
